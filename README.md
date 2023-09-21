@@ -4,7 +4,7 @@
 
 This project involves the analysis of churn patterns among bank customers using Power BI. The primary objectives were to clean and preprocess the data, create data models, develop custom measures using DAX, and visualize insights to understand customer behavior. This README provides an overview of the project and its key components.
 
-![Power BI Dashboard]https://github.com/ViviyanT/Power_BI_Churn_Analysis/blob/main/Dashboard.png
+![Power BI Dashboard](https://github.com/ViviyanT/Power_BI_Churn_Analysis/blob/main/Dashboard.png)
 
 ## Project Goals and Objectives
 
